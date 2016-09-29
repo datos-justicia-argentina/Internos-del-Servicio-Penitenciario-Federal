@@ -176,4 +176,5 @@ Recursos
 
 -   **fecha_nacimiento (date):** fecha de nacimiento del interno
 
-**Notas**
+Notas
+-----

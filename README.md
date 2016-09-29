@@ -1,7 +1,7 @@
 Internos del Servicio Penitenciario Federal - SPF
 =================================================
 
-Esta base registra los internos del Servicio Penitenciario Federal – SPF – condenados, procesados e inimputables, alojados en los establecimientos del SPF de todo el país.
+Este conjunto de datos registra los internos del Servicio Penitenciario Federal – SPF – condenados, procesados e inimputables, alojados en los establecimientos del SPF de todo el país.
 
 Características
 ---------------

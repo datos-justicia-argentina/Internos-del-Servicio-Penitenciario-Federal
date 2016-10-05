@@ -6,7 +6,7 @@ Este conjunto de datos registra los internos del Servicio Penitenciario Federal 
 Características
 ---------------
 
--   **Fecha de Publicación:**28/09/2016
+-   **Fecha de Publicación:**29/09/2016
 
 -   **Tags o Etiquetas:** penitenciario, federal, prisión, presos, condenados, procesados, inimputables, SPF, procesal
 

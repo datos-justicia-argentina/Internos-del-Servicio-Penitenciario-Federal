@@ -20,14 +20,14 @@ Características
 
 -   **Frecuencia de Actualización:** Mensual
 
-Recursos
---------
+Recursos Disponibles
+--------------------
 
 **Internos del SPF – Condenados AAAA-MM**
 
--   **Nombre:** internos-spf-condenados-AAAA-MM.csv
+-   **Nombre del archivo:** internos-spf-condenados-AAAA-MM.csv
 
--   **Descripción:** nómina de condenados alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado.
+-   **Descripción del contenido:** nómina de condenados alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado.
 
 -   **Formato:** CSV delimitado por comas
 

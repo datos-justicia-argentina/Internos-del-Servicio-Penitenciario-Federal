@@ -69,13 +69,15 @@ Recursos Disponibles
 
 -   **subgrupo (string):** Subgrupo
 
+-   **fecha_nacimiento (date):** fecha de nacimiento del interno
+
 -   **provincia_nacimiento (string):** Provincia de nacimiento
 
 -   **juzgado (string):** juzgado
 
 -   **fecha_ingreso (date):** fecha de ingreso del interno
 
--   **fecha_nacimiento (date):** fecha de nacimiento del interno
+
 
 **Internos del SPF – Procesados AAAA-MM**
 
@@ -90,6 +92,7 @@ Recursos Disponibles
 -   **unidad:** Unidad en que se encuentra el interno
 
 -   **situacion\_procesal (string):** Situación procesal del interno (procesado)
+
 -   **delito (string):** Tipo de delito
 
 -   **edad (string):** Edad del interno
@@ -116,13 +119,14 @@ Recursos Disponibles
 
 -   **subgrupo (string):** Subgrupo
 
+-   **fecha_nacimiento (date):** fecha de nacimiento del interno
+
 -   **provincia_nacimiento (string):** Provincia de nacimiento
 
 -   **juzgado (string):** juzgado
 
 -   **fecha_ingreso (date):** fecha de ingreso del interno
 
--   **fecha_nacimiento (date):** fecha de nacimiento del interno
 
 **Internos del SPF – Inimputables AAAA-MM**
 
@@ -168,13 +172,14 @@ Recursos Disponibles
 
 -   **subgrupo (string):** Subgrupo
 
+-   **fecha_nacimiento (date):** fecha de nacimiento del interno
+
 -   **provincia_nacimiento (string):** Provincia de nacimiento
 
 -   **juzgado (string):** juzgado
 
 -   **fecha_ingreso (date):** fecha de ingreso del interno
 
--   **fecha_nacimiento (date):** fecha de nacimiento del interno
 
 Notas
 -----

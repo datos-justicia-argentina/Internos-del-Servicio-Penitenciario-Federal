@@ -27,7 +27,7 @@ Recursos Disponibles
 
 -   **Nombre del archivo:** internos-spf-condenados-AAAA-MM.csv
 
--   **Descripción del contenido:** nómina de condenados alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado.
+-   **Descripción del contenido:** nómina de condenados alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado
 
 -   **Formato:** CSV delimitado por comas
 
@@ -83,7 +83,7 @@ Recursos Disponibles
 
 -   **Nombre:** internos-spf-procesados-AAAA-MM.csv
 
--   **Descripción:** nómina de procesados alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado.
+-   **Descripción:** nómina de procesados alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado
 
 -   **Formato:** CSV delimitado por comas
 
@@ -134,7 +134,7 @@ Recursos Disponibles
 
 <!-- -->
 
--   **Descripción:** nómina de inimputables alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado.
+-   **Descripción:** nómina de inimputables alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado
 
 <!-- -->
 
@@ -181,5 +181,5 @@ Recursos Disponibles
 -   **fecha_ingreso (date):** fecha de ingreso del interno
 
 
-Notas
------
+
+

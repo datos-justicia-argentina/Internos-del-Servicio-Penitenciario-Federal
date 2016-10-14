@@ -20,7 +20,7 @@ Características
 
 - **Frecuencia de Actualización:** Mensual
 
-Recursos Disponibles
+Recursos disponibles
 --------------------
 
 ### Internos del SPF – Condenados AAAA-MM

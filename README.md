@@ -6,179 +6,179 @@ Este conjunto de datos registra los internos del Servicio Penitenciario Federal 
 Características
 ---------------
 
--   **Fecha de Publicación:**29/09/2016
+- **Fecha de Publicación:**29/09/2016
 
--   **Tags o Etiquetas:** penitenciario, federal, prisión, presos, condenados, procesados, inimputables, SPF, procesal
+- **Tags o Etiquetas:** penitenciario, federal, prisión, presos, condenados, procesados, inimputables, SPF, procesal
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Dirección Nacional del Servicio Penitenciario Federal
+- **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Dirección Nacional del Servicio Penitenciario Federal
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Dirección Nacional del Servicio Penitenciario Federal
+- **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Dirección Nacional del Servicio Penitenciario Federal
 
--   **Responsable:** Dirección Nacional del Servicio Penitenciario Federal
+- **Responsable:** Dirección Nacional del Servicio Penitenciario Federal
 
--   **Grupos:** Sistema Penitenciario
+- **Grupos:** Sistema Penitenciario
 
--   **Frecuencia de Actualización:** Mensual
+- **Frecuencia de Actualización:** Mensual
 
 Recursos Disponibles
 --------------------
 
-**Internos del SPF – Condenados AAAA-MM**
+### Internos del SPF – Condenados AAAA-MM
 
--   **Nombre del archivo:** internos-spf-condenados-AAAA-MM.csv
+- **Nombre del archivo:** internos-spf-condenados-AAAA-MM.csv
 
--   **Descripción del contenido:** nómina de condenados alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado
+- **Descripción del contenido:** nómina de condenados alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado
 
--   **Formato:** CSV delimitado por comas
+- **Formato:** CSV delimitado por comas
 
-**Campos del recurso**
+### Campos del recurso
 
--   **unidad:** Unidad en que se encuentra el interno
+- **unidad:** Unidad en que se encuentra el interno
 
--   **lpu (int):** Número de legajo
+- **lpu (int):** Número de legajo
 
--   **apellido (string):** Apellido del interno
+- **apellido (string):** Apellido del interno
 
--   **nombre (string):** Nombre del interno
+- **nombre (string):** Nombre del interno
 
--   **situacion_procesal (string):** Situación procesal del interno (condenado)
+- **situacion_procesal (string):** Situación procesal del interno (condenado)
 
--   **delito (string):** Tipo de delito
+- **delito (string):** Tipo de delito
 
--   **edad (string):** Edad del interno
+- **edad (string):** Edad del interno
 
--   **nacionalidad (string):** Nacionalidad del interno
+- **nacionalidad (string):** Nacionalidad del interno
 
--   **Sexo (string):** Sexo del interno
+- **Sexo (string):** Sexo del interno
 
--   **jurisdiccion (string):** Jurisdicción federal, nacional o provincial
+- **jurisdiccion (string):** Jurisdicción federal, nacional o provincial
 
--   **fecha_sentencia_firme (date):** Fecha de sentencia firme
+- **fecha_sentencia_firme (date):** Fecha de sentencia firme
 
--   **anios_pena (int):** Años de la pena
+- **anios_pena (int):** Años de la pena
 
--   **meses_pena (int):** Meses de la pena
+- **meses_pena (int):** Meses de la pena
 
--   **dias_pena (int):** Días de la pena
+- **dias_pena (int):** Días de la pena
 
--   **tipo_pena (string):** Tipo de pena
+- **tipo_pena (string):** Tipo de pena
 
--   **estado_civil (string):** Estado civil del interno
+- **estado_civil (string):** Estado civil del interno
 
--   **profesion (string):** Profesión del interno
+- **profesion (string):** Profesión del interno
 
--   **subgrupo (string):** Subgrupo
+- **subgrupo (string):** Subgrupo
 
--   **fecha_nacimiento (date):** fecha de nacimiento del interno
+- **fecha_nacimiento (date):** fecha de nacimiento del interno
 
--   **provincia_nacimiento (string):** Provincia de nacimiento
+- **provincia_nacimiento (string):** Provincia de nacimiento
 
--   **juzgado (string):** juzgado
+- **juzgado (string):** juzgado
 
--   **fecha_ingreso (date):** fecha de ingreso del interno
-
-
-
-**Internos del SPF – Procesados AAAA-MM**
-
--   **Nombre:** internos-spf-procesados-AAAA-MM.csv
-
--   **Descripción:** nómina de procesados alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado
-
--   **Formato:** CSV delimitado por comas
-
-**Campos del recurso**
-
--   **unidad:** Unidad en que se encuentra el interno
-
--   **situacion\_procesal (string):** Situación procesal del interno (procesado)
-
--   **delito (string):** Tipo de delito
-
--   **edad (string):** Edad del interno
-
--   **nacionalidad (string):** Nacionalidad del interno
-
--   **Sexo (string):** Sexo del interno
-
--   **jurisdiccion (string):** Jurisdicción federal, nacional o provincial
-
--   **fecha_sentencia_firme (date):** Fecha de sentencia firme
-
--   **anios_pena (int):** Años de la pena
-
--   **meses_pena (int):** Meses de la pena
-
--   **dias_pena (int):** Días de la pena
-
--   **tipo_pena (string):** Tipo de pena
-
--   **estado_civil (string):** Estado civil del interno
-
--   **profesion (string):** Profesión del interno
-
--   **subgrupo (string):** Subgrupo
-
--   **fecha_nacimiento (date):** fecha de nacimiento del interno
-
--   **provincia_nacimiento (string):** Provincia de nacimiento
-
--   **juzgado (string):** juzgado
-
--   **fecha_ingreso (date):** fecha de ingreso del interno
+- **fecha_ingreso (date):** fecha de ingreso del interno
 
 
-**Internos del SPF – Inimputables AAAA-MM**
 
--   **Nombre:** internos-spf-inimputables-AAAA-MM.csv
+### Internos del SPF – Procesados AAAA-MM
 
-<!-- -->
+- **Nombre:** internos-spf-procesados-AAAA-MM.csv
 
--   **Descripción:** nómina de inimputables alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado
+- **Descripción:** nómina de procesados alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado
+
+- **Formato:** CSV delimitado por comas
+
+### Campos del recurso
+
+- **unidad:** Unidad en que se encuentra el interno
+
+- **situacion\_procesal (string):** Situación procesal del interno (procesado)
+
+- **delito (string):** Tipo de delito
+
+- **edad (string):** Edad del interno
+
+- **nacionalidad (string):** Nacionalidad del interno
+
+- **Sexo (string):** Sexo del interno
+
+- **jurisdiccion (string):** Jurisdicción federal, nacional o provincial
+
+- **fecha_sentencia_firme (date):** Fecha de sentencia firme
+
+- **anios_pena (int):** Años de la pena
+
+- **meses_pena (int):** Meses de la pena
+
+- **dias_pena (int):** Días de la pena
+
+- **tipo_pena (string):** Tipo de pena
+
+- **estado_civil (string):** Estado civil del interno
+
+- **profesion (string):** Profesión del interno
+
+- **subgrupo (string):** Subgrupo
+
+- **fecha_nacimiento (date):** fecha de nacimiento del interno
+
+- **provincia_nacimiento (string):** Provincia de nacimiento
+
+- **juzgado (string):** juzgado
+
+- **fecha_ingreso (date):** fecha de ingreso del interno
+
+
+### Internos del SPF – Inimputables AAAA-MM
+
+- **Nombre:** internos-spf-inimputables-AAAA-MM.csv
 
 <!-- -->
 
--   **Formato:** CSV delimitado por comas
+- **Descripción:** nómina de inimputables alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado
 
-**Campos del recurso**
+<!-- -->
 
--   **unidad:** Unidad en que se encuentra el interno
+- **Formato:** CSV delimitado por comas
 
--   **situacion_procesal (string):** Situación procesal del interno (inimputable)
+### Campos del recurso
 
--   **delito (string):** Tipo de delito
+- **unidad:** Unidad en que se encuentra el interno
 
--   **edad (string):** Edad del interno
+- **situacion_procesal (string):** Situación procesal del interno (inimputable)
 
--   **nacionalidad (string):** Nacionalidad del interno
+- **delito (string):** Tipo de delito
 
--   **Sexo (string):** Sexo del interno
+- **edad (string):** Edad del interno
 
--   **jurisdiccion (string):** Jurisdicción federal, nacional o provincial
+- **nacionalidad (string):** Nacionalidad del interno
 
--   **fecha_sentencia_firme (date):** Fecha de sentencia firme
+- **Sexo (string):** Sexo del interno
 
--   **anios_pena (int):** Años de la pena
+- **jurisdiccion (string):** Jurisdicción federal, nacional o provincial
 
--   **meses_pena (int):** Meses de la pena
+- **fecha_sentencia_firme (date):** Fecha de sentencia firme
 
--   **dias_pena (int):** Días de la pena
+- **anios_pena (int):** Años de la pena
 
--   **tipo_pena (string):** Tipo de pena
+- **meses_pena (int):** Meses de la pena
 
--   **estado_civil (string):** Estado civil del interno
+- **dias_pena (int):** Días de la pena
 
--   **profesion (string):** Profesión del interno
+- **tipo_pena (string):** Tipo de pena
 
--   **subgrupo (string):** Subgrupo
+- **estado_civil (string):** Estado civil del interno
 
--   **fecha_nacimiento (date):** fecha de nacimiento del interno
+- **profesion (string):** Profesión del interno
 
--   **provincia_nacimiento (string):** Provincia de nacimiento
+- **subgrupo (string):** Subgrupo
 
--   **juzgado (string):** juzgado
+- **fecha_nacimiento (date):** fecha de nacimiento del interno
 
--   **fecha_ingreso (date):** fecha de ingreso del interno
+- **provincia_nacimiento (string):** Provincia de nacimiento
+
+- **juzgado (string):** juzgado
+
+- **fecha_ingreso (date):** fecha de ingreso del interno
 
 
 

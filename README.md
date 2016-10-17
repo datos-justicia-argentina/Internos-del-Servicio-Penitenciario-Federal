@@ -16,7 +16,7 @@ Características
 
 - **Responsable:** Dirección Nacional del Servicio Penitenciario Federal
 
-- **Grupos:** Sistema Penitenciario
+- **Grupo:** Sistema Penitenciario
 
 - **Frecuencia de Actualización:** Mensual
 

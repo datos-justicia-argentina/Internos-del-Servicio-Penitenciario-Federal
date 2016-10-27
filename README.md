@@ -14,7 +14,7 @@ Características
 
 - **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Dirección Nacional del Servicio Penitenciario Federal
 
-- **Responsable:** Dirección Nacional del Servicio Penitenciario Federal
+- **Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Dirección Nacional del Servicio Penitenciario Federal
 
 - **Grupo:** Sistema Penitenciario
 

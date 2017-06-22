@@ -31,6 +31,8 @@ Recursos disponibles
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 
+- **Rango temporal:** Listado actualizado a la fecha consignada como "Datos actualizados al"
+
 ### Campos del recurso
 
 - **unidad:** Unidad en que se encuentra el interno
@@ -82,13 +84,11 @@ Recursos disponibles
 
 - **Nombre:** internos-spf-inimputables-AAAA-MM.csv
 
-<!-- -->
-
 - **Descripción:** Nómina de inimputables alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado
 
-<!-- -->
-
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
+
+- **Rango temporal:** Listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -138,6 +138,8 @@ Recursos disponibles
 - **Descripción:** Nómina de procesados alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
+
+- **Rango temporal:** Listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 

@@ -49,7 +49,7 @@ Recursos disponibles
 
 - **nacionalidad (string):** Nacionalidad del interno
 
-- **Sexo (string):** Sexo del interno
+- **sexo (string):** Sexo del interno
 
 - **jurisdiccion (string):** Jurisdicción federal, nacional o provincial
 
@@ -102,7 +102,7 @@ Recursos disponibles
 
 - **nacionalidad (string):** Nacionalidad del interno
 
-- **Sexo (string):** Sexo del interno
+- **sexo (string):** Sexo del interno
 
 - **jurisdiccion (string):** Jurisdicción federal, nacional o provincial
 
@@ -151,7 +151,7 @@ Recursos disponibles
 
 - **nacionalidad (string):** Nacionalidad del interno
 
-- **Sexo (string):** Sexo del interno
+- **sexo (string):** Sexo del interno
 
 - **jurisdiccion (string):** Jurisdicción federal, nacional o provincial
 

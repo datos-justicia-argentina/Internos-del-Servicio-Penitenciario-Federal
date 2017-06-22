@@ -29,7 +29,7 @@ Recursos disponibles
 
 - **Descripción del contenido:** nómina de condenados alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado
 
-- **Formato:** CSV delimitado por comas
+- **Formato:** CSV delimitado por comas, codificado en UTF-8
 
 ### Campos del recurso
 

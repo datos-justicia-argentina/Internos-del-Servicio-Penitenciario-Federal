@@ -69,13 +69,13 @@ Recursos disponibles
 
 - **subgrupo (string):** Subgrupo
 
-- **fecha_nacimiento (date):** fecha de nacimiento del interno
+- **fecha_nacimiento (date):** Fecha de nacimiento del interno
 
 - **provincia_nacimiento (string):** Provincia de nacimiento
 
 - **juzgado (string):** juzgado
 
-- **fecha_ingreso (date):** fecha de ingreso del interno
+- **fecha_ingreso (date):** Fecha de ingreso del interno
 
 
 ### Internos del SPF – Inimputables AAAA-MM
@@ -84,7 +84,7 @@ Recursos disponibles
 
 <!-- -->
 
-- **Descripción:** nómina de inimputables alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado
+- **Descripción:** Nómina de inimputables alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado
 
 <!-- -->
 
@@ -122,20 +122,20 @@ Recursos disponibles
 
 - **subgrupo (string):** Subgrupo
 
-- **fecha_nacimiento (date):** fecha de nacimiento del interno
+- **fecha_nacimiento (date):** Fecha de nacimiento del interno
 
 - **provincia_nacimiento (string):** Provincia de nacimiento
 
-- **juzgado (string):** juzgado
+- **juzgado (string):** Juzgado
 
-- **fecha_ingreso (date):** fecha de ingreso del interno
+- **fecha_ingreso (date):** Fecha de ingreso del interno
 
 
 ### Internos del SPF – Procesados AAAA-MM
 
 - **Nombre:** internos-spf-procesados-AAAA-MM.csv
 
-- **Descripción:** nómina de procesados alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado
+- **Descripción:** Nómina de procesados alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado
 
 - **Formato:** CSV delimitado por comas
 
@@ -171,11 +171,11 @@ Recursos disponibles
 
 - **subgrupo (string):** Subgrupo
 
-- **fecha_nacimiento (date):** fecha de nacimiento del interno
+- **fecha_nacimiento (date):** Fecha de nacimiento del interno
 
 - **provincia_nacimiento (string):** Provincia de nacimiento
 
-- **juzgado (string):** juzgado
+- **juzgado (string):** Juzgado
 
-- **fecha_ingreso (date):** fecha de ingreso del interno
+- **fecha_ingreso (date):** Fecha de ingreso del interno
 

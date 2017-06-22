@@ -88,7 +88,7 @@ Recursos disponibles
 
 <!-- -->
 
-- **Formato:** CSV delimitado por comas
+- **Formato:** CSV delimitado por comas, codificado en UTF-8
 
 ### Campos del recurso
 
@@ -137,7 +137,7 @@ Recursos disponibles
 
 - **Descripción:** Nómina de procesados alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado.
 
-- **Formato:** CSV delimitado por comas
+- **Formato:** CSV delimitado por comas, codificado en UTF-8
 
 ### Campos del recurso
 

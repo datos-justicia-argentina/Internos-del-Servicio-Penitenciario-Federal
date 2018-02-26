@@ -3,12 +3,14 @@ Internos del Servicio Penitenciario Federal - SPF
 
 Este conjunto de datos registra los internos del Servicio Penitenciario Federal – SPF – condenados, procesados e inimputables, alojados en los establecimientos del SPF de todo el país.
 
+http://datos.jus.gob.ar/dataset/internos-del-servicio-penitenciario-federal-spf
+
 Características
 ---------------
 
 - **Fecha de Primera Publicación:** 29/09/2016
 
-- **Tags o Etiquetas:** penitenciario, federal, prisión, presos, condenados, procesados, inimputables, SPF, procesal
+- **Tags o Etiquetas:** penitenciario, federales, prisiones, presos, condenados, procesados, inimputables, SPF, procesales
 
 - **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Dirección Nacional del Servicio Penitenciario Federal
 
@@ -27,7 +29,7 @@ Recursos disponibles
 
 - **Nombre del archivo:** internos-spf-condenados-AAAA-MM.csv
 
-- **Descripción del contenido:** Nómina de condenados alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado
+- **Descripción del contenido:** nómina de condenados alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 

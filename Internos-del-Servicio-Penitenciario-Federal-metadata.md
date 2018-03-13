@@ -183,3 +183,6 @@ Recursos disponibles
 
 - **fecha_ingreso (date):** fecha de ingreso del interno
 
+Notas
+-----
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2016-986-E-APN-MJ.pdf), del 26 de Octubre de 2016.

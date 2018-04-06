@@ -33,7 +33,7 @@ Recursos disponibles
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 
-- **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+- **Rango temporal:** Internos del SPF - Condenados  desde septiembre de 2016 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -90,8 +90,7 @@ Recursos disponibles
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 
-- **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
-
+- **Rango temporal:** Internos del SPF - Inimputables  desde septiembre de 2016 hasta la fecha consignada como "Datos actualizados al"
 ### Campos del recurso
 
 - **unidad:** unidad en que se encuentra el interno
@@ -141,8 +140,7 @@ Recursos disponibles
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 
-- **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
-
+- **Rango temporal:** Internos del SPF - Procesados  desde septiembre de 2016 hasta la fecha consignada como "Datos actualizados al"
 ### Campos del recurso
 
 - **unidad:** unidad en que se encuentra el interno

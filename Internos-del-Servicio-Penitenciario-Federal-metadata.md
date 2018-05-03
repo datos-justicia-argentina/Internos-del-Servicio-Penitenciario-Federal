@@ -39,7 +39,7 @@ Recursos disponibles
 
 - **unidad:** unidad en que se encuentra el interno
 
-- **lpu (int):** número de legajo
+- **ipu (int):** número de legajo
 
 - **apellido (string):** apellido del interno
 
@@ -53,7 +53,7 @@ Recursos disponibles
 
 - **nacionalidad (string):** nacionalidad del interno
 
-- **sexo (string):** sexo del interno
+- **genero (string):** género del interno
 
 - **jurisdiccion (string):** jurisdicción federal, nacional o provincial
 
@@ -103,7 +103,7 @@ Recursos disponibles
 
 - **nacionalidad (string):** nacionalidad del interno
 
-- **sexo (string):** sexo del interno
+- **genero (string):** género del interno
 
 - **jurisdiccion (string):** jurisdicción federal, nacional o provincial
 
@@ -153,7 +153,7 @@ Recursos disponibles
 
 - **nacionalidad (string):** nacionalidad del interno
 
-- **sexo (string):** sexo del interno
+- **genero (string):** género del interno
 
 - **jurisdiccion (string):** jurisdicción federal, nacional o provincial
 

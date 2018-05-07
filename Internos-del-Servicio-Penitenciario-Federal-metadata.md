@@ -39,7 +39,7 @@ Recursos disponibles
 
 - **unidad:** unidad en que se encuentra el interno
 
-- **ipu (int):** número de legajo
+- **lpu (int):** número de legajo
 
 - **apellido (string):** apellido del interno
 

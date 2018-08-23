@@ -81,6 +81,8 @@ Recursos disponibles
 
 - **fecha_ingreso (date):** fecha de ingreso del interno
 
+- **provincia_nacimiento_indec_id (string):** código de la provincia en la que nació el interno, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018)
+
 
 ### Internos del SPF – Inimputables AAAA-MM
 
@@ -107,16 +109,6 @@ Recursos disponibles
 
 - **jurisdiccion (string):** jurisdicción federal, nacional o provincial
 
-- **fecha_sentencia_firme (date):** fecha de sentencia firme
-
-- **anios_pena (int):** años de la pena
-
-- **meses_pena (int):** meses de la pena
-
-- **dias_pena (int):** días de la pena
-
-- **tipo_pena (string):** tipo de pena
-
 - **estado_civil (string):** estado civil del interno
 
 - **profesion (string):** profesión del interno
@@ -131,6 +123,7 @@ Recursos disponibles
 
 - **fecha_ingreso (date):** fecha de ingreso del interno
 
+- **provincia_nacimiento_indec_id (string):** código de la provincia en la que nació el interno, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018)
 
 ### Internos del SPF – Procesados AAAA-MM
 
@@ -157,16 +150,6 @@ Recursos disponibles
 
 - **jurisdiccion (string):** jurisdicción federal, nacional o provincial
 
-- **fecha_sentencia_firme (date):** fecha de sentencia firme
-
-- **anios_pena (int):** años de la pena
-
-- **meses_pena (int):** meses de la pena
-
-- **dias_pena (int):** días de la pena
-
-- **tipo_pena (string):** tipo de pena
-
 - **estado_civil (string):** estado civil del interno
 
 - **profesion (string):** profesión del interno
@@ -180,6 +163,8 @@ Recursos disponibles
 - **juzgado (string):** juzgado
 
 - **fecha_ingreso (date):** fecha de ingreso del interno
+
+- **provincia_nacimiento_indec_id (string):** código de la provincia en la que nació el interno, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018)
 
 ### Internos del SPF - AAAA
 

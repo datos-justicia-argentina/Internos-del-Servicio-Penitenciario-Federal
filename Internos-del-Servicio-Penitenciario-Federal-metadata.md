@@ -83,6 +83,46 @@ Recursos disponibles
 
 - **provincia_nacimiento_indec_id (string):** código de la provincia en la que nació el interno, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018)
 
+### Internos del SPF – Procesados AAAA-MM
+
+- **Nombre:** internos-spf-procesados-AAAA-MM.csv
+
+- **Descripción:** nómina de procesados alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado
+
+- **Formato:** CSV delimitado por comas, codificado en UTF-8
+
+- **Rango temporal:** internos del SPF - Procesados  desde septiembre de 2016 hasta la fecha consignada como "Datos actualizados al"
+### Campos del recurso
+
+- **unidad:** unidad en que se encuentra el interno
+
+- **situacion_procesal (string):** situación procesal del interno (procesado)
+
+- **delito (string):** tipo de delito
+
+- **edad (string):** edad del interno
+
+- **nacionalidad (string):** nacionalidad del interno
+
+- **genero (string):** género del interno
+
+- **jurisdiccion (string):** jurisdicción federal, nacional o provincial
+
+- **estado_civil (string):** estado civil del interno
+
+- **profesion (string):** profesión del interno
+
+- **subgrupo (string):** subgrupo
+
+- **fecha_nacimiento (date):** fecha de nacimiento del interno
+
+- **provincia_nacimiento (string):** provincia de nacimiento
+
+- **juzgado (string):** juzgado
+
+- **fecha_ingreso (date):** fecha de ingreso del interno
+
+- **provincia_nacimiento_indec_id (string):** código de la provincia en la que nació el interno, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018)
 
 ### Internos del SPF – Inimputables AAAA-MM
 
@@ -125,46 +165,6 @@ Recursos disponibles
 
 - **provincia_nacimiento_indec_id (string):** código de la provincia en la que nació el interno, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018)
 
-### Internos del SPF – Procesados AAAA-MM
-
-- **Nombre:** internos-spf-procesados-AAAA-MM.csv
-
-- **Descripción:** nómina de procesados alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado
-
-- **Formato:** CSV delimitado por comas, codificado en UTF-8
-
-- **Rango temporal:** internos del SPF - Procesados  desde septiembre de 2016 hasta la fecha consignada como "Datos actualizados al"
-### Campos del recurso
-
-- **unidad:** unidad en que se encuentra el interno
-
-- **situacion_procesal (string):** situación procesal del interno (procesado)
-
-- **delito (string):** tipo de delito
-
-- **edad (string):** edad del interno
-
-- **nacionalidad (string):** nacionalidad del interno
-
-- **genero (string):** género del interno
-
-- **jurisdiccion (string):** jurisdicción federal, nacional o provincial
-
-- **estado_civil (string):** estado civil del interno
-
-- **profesion (string):** profesión del interno
-
-- **subgrupo (string):** subgrupo
-
-- **fecha_nacimiento (date):** fecha de nacimiento del interno
-
-- **provincia_nacimiento (string):** provincia de nacimiento
-
-- **juzgado (string):** juzgado
-
-- **fecha_ingreso (date):** fecha de ingreso del interno
-
-- **provincia_nacimiento_indec_id (string):** código de la provincia en la que nació el interno, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018)
 
 ### Internos del SPF - AAAA
 

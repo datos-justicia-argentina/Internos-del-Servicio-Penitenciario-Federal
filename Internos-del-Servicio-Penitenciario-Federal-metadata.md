@@ -83,6 +83,10 @@ Recursos disponibles
 
 - **provincia_nacimiento_indec_id (string):** código de la provincia en la que nació el interno, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018)
 
+- **unidad_provincia (string):** provincia en la que se encuentra la unidad
+
+- **unidad_provincia_indec_id (string):** código de la provincia en la que se encuentra la unidad, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018)
+
 ### Internos del SPF – Procesados AAAA-MM
 
 - **Nombre:** internos-spf-procesados-AAAA-MM.csv
@@ -124,6 +128,10 @@ Recursos disponibles
 
 - **provincia_nacimiento_indec_id (string):** código de la provincia en la que nació el interno, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018)
 
+- **unidad_provincia (string):** provincia en la que se encuentra la unidad
+
+- **unidad_provincia_indec_id (string):** código de la provincia en la que se encuentra la unidad, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018)
+
 ### Internos del SPF – Inimputables AAAA-MM
 
 - **Nombre:** internos-spf-inimputables-AAAA-MM.csv
@@ -164,6 +172,10 @@ Recursos disponibles
 - **fecha_ingreso (date):** fecha de ingreso del interno
 
 - **provincia_nacimiento_indec_id (string):** código de la provincia en la que nació el interno, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018)
+
+- **unidad_provincia (string):** provincia en la que se encuentra la unidad
+
+- **unidad_provincia_indec_id (string):** código de la provincia en la que se encuentra la unidad, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018)
 
 
 ### Internos del SPF - AAAA

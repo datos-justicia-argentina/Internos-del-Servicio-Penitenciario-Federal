@@ -27,7 +27,7 @@ Recursos disponibles
 
 ### Internos del SPF – Condenados AAAA-MM
 
-- **Nombre del archivo:** internos-spf-condenados-AAAA-MM.csv
+- **Nombre del archivo:** internos-spf-condenados-AAAAMM.csv
 
 - **Descripción del contenido:** nómina de condenados alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado
 

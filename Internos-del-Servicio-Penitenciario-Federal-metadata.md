@@ -25,7 +25,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Internos del SPF – Condenados AAAA-MM
+### Internos del SPF – Condenados AAAAMM
 
 - **Nombre del archivo:** internos-spf-condenados-AAAAMM.csv
 

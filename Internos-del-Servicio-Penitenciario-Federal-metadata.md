@@ -87,9 +87,9 @@ Recursos disponibles
 
 - **unidad_provincia_indec_id (string):** código de la provincia en la que se encuentra la unidad, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018)
 
-### Internos del SPF – Procesados AAAA-MM
+### Internos del SPF – Procesados AAAAMM
 
-- **Nombre:** internos-spf-procesados-AAAA-MM.csv
+- **Nombre:** internos-spf-procesados-AAAAMM.csv
 
 - **Descripción:** nómina de procesados alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado
 
@@ -132,9 +132,9 @@ Recursos disponibles
 
 - **unidad_provincia_indec_id (string):** código de la provincia en la que se encuentra la unidad, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018)
 
-### Internos del SPF – Inimputables AAAA-MM
+### Internos del SPF – Inimputables AAAAMM
 
-- **Nombre:** internos-spf-inimputables-AAAA-MM.csv
+- **Nombre:** internos-spf-inimputables-AAAAMM.csv
 
 - **Descripción:** nómina de inimputables alojados en establecimientos del Servicio Penitenciario Federal. AAAA corresponde a año y MM corresponde a mes informado
 

@@ -81,11 +81,11 @@ Recursos disponibles
 
 - **fecha_ingreso (date):** fecha de ingreso del interno
 
-- **provincia_nacimiento_indec_id (string):** código de la provincia en la que nació el interno, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018)
+- **provincia_nacimiento_id (string):** código de la provincia en la que nació el interno, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018. Hasta 05/2019 nombre campo provincia_nacimiento_indec_id)
 
 - **unidad_provincia (string):** provincia en la que se encuentra la unidad
 
-- **unidad_provincia_indec_id (string):** código de la provincia en la que se encuentra la unidad, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018)
+- **unidad_provincia_id (string):** código de la provincia en la que se encuentra la unidad, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018. Hasta 05/2019 nombre campo unidad_provincia_indec_id)
 
 ### Internos del SPF – Procesados AAAAMM
 
@@ -126,11 +126,11 @@ Recursos disponibles
 
 - **fecha_ingreso (date):** fecha de ingreso del interno
 
-- **provincia_nacimiento_indec_id (string):** código de la provincia en la que nació el interno, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018)
+- **provincia_nacimiento_id (string):** código de la provincia en la que nació el interno, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018. Hasta 05/2019 nombre campo provincia_nacimiento_indec_id)
 
 - **unidad_provincia (string):** provincia en la que se encuentra la unidad
 
-- **unidad_provincia_indec_id (string):** código de la provincia en la que se encuentra la unidad, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018)
+- **unidad_provincia_id (string):** código de la provincia en la que se encuentra la unidad, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018. Hasta 05/2019 nombre campo unidad_provincia_indec_id)
 
 ### Internos del SPF – Inimputables AAAAMM
 
@@ -171,11 +171,11 @@ Recursos disponibles
 
 - **fecha_ingreso (date):** fecha de ingreso del interno
 
-- **provincia_nacimiento_indec_id (string):** código de la provincia en la que nació el interno, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018)
+- **provincia_nacimiento_id (string):** código de la provincia en la que nació el interno, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018. Hasta 05/2019 nombre campo provincia_nacimiento_indec_id)
 
 - **unidad_provincia (string):** provincia en la que se encuentra la unidad
 
-- **unidad_provincia_indec_id (string):** código de la provincia en la que se encuentra la unidad, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018)
+- **unidad_provincia_id (string):** código de la provincia en la que se encuentra la unidad, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018. Hasta 05/2019 nombre campo unidad_provincia_indec_id)
 
 
 ### Internos del SPF - AAAA

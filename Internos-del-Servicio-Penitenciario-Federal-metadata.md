@@ -12,11 +12,11 @@ Características
 
 - **Tags o Etiquetas:** penitenciario, federales, prisiones, presos, condenados, procesados, inimputables, SPF, procesales
 
-- **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Dirección Nacional del Servicio Penitenciario Federal
+- **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Asuntos Penitenciarios. Dirección Nacional del Servicio Penitenciario Federal
 
-- **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Dirección Nacional del Servicio Penitenciario Federal
+- **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Asuntos Penitenciarios. Dirección Nacional del Servicio Penitenciario Federal
 
-- **Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios. Dirección Nacional del Servicio Penitenciario Federal
+- **Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Asuntos Penitenciarios. Dirección Nacional del Servicio Penitenciario Federal
 
 - **Grupo:** Sistema Penitenciario
 
